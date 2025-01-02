@@ -2,16 +2,24 @@
 
 LinkedIn data extraction API for jobs, companies, and profiles. Get real-time access to LinkedIn data through our reliable API service.
 
-[![RapidAPI](https://img.shields.io/badge/RapidAPI-Live-blue.svg)](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)
-[![Apify](https://img.shields.io/badge/Apify-Live-brightgreen.svg)](https://apify.com/apimaestro)
+## 🚀 Available on RapidAPI and Apify
 
-## 🚀 Our LinkedIn Data Solutions
+Our LinkedIn data solutions are available on apify and rapidapi platforms.
+
+## 🚀 Quick Access
+
+To use the api, create a free account on either apify or rapidapi access the api from below:
+- **Apify**: [LinkedIn Scraper Suite](https://apify.com/apimaestro)
+- **RapidAPI**: [LinkedIn Jobs Data API](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)
+
+## 📚 Our LinkedIn Data Solutions
 
 Get comprehensive LinkedIn data with our specialized APIs:
 
+- [LinkedIn Profile API](https://apify.com/apimaestro/linkedin-profile-detail) - Get detailed public profile information
+- [LinkedIn Profile Posts API](https://apify.com/apimaestro/linkedin-profile-posts) - Extract recent posts and activity
 - [LinkedIn Jobs API](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api) - Search and filter job listings with advanced criteria
 - [LinkedIn Job Detail API](https://apify.com/apimaestro/linkedin-job-detail) - Extract comprehensive details about specific job postings
-- [LinkedIn Profile API](https://apify.com/apimaestro/linkedin-profile-detail) - Get detailed public profile information
 - [LinkedIn Company API](https://apify.com/apimaestro/linkedin-company-detail) - Extract comprehensive company information
 
 Each API is designed to work independently or in combination for advanced use cases.
@@ -83,30 +91,7 @@ Each API is designed to work independently or in combination for advanced use ca
 - Professional network mapping
 - Company growth tracking
 
-## 🔌 API Access Options
 
-### RapidAPI
-Access our API through RapidAPI with flexible pricing plans:
-👉 [LinkedIn Jobs Data API on RapidAPI](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)
-
-### Apify
-Access through Apify platform with pay-as-you-go pricing:
-👉 [LinkedIn Data Scrapers on Apify](https://apify.com/apimaestro)
-
-## ⭐ Why Choose Our API?
-
-- **High Success Rate**: Reliable data extraction with robust error handling
-- **Real-Time Data**: Access to LinkedIn's latest information
-- **Comprehensive Coverage**: Detailed data across jobs, companies, and profiles
-- **Production Ready**: Enterprise-grade reliability and performance
-- **Regular Updates**: Maintained to handle LinkedIn's platform changes
-- **Technical Support**: Fast response to issues and inquiries
-
-## 📞 Support & Custom Solutions
-
-Need help or custom solutions? Contact us:
-- [RapidAPI Profile](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)
-- [Apify Profile](https://apify.com/apimaestro)
 
 ## ⚖️ Terms & Privacy
 
