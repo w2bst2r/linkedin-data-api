@@ -1,6 +1,6 @@
-# LinkedIn API for Jobs, Companies & Profiles
+# LinkedIn API Scraper for Jobs, Companies & Profiles
 
-LinkedIn data extraction API for jobs, companies, and profiles. Get real-time access to LinkedIn data through our reliable API service.
+LinkedIn data scraper API/ for jobs, companies, and profiles. Get real-time access to LinkedIn data through our reliable API service.
 
 ## 🚀 Available on RapidAPI and Apify
 
@@ -105,6 +105,6 @@ This API is designed for legitimate business purposes and should be used in comp
 
 <div align="center">
 
-**[View on RapidAPI](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)** | **[View on Apify](https://apify.com/apimaestro)**
+**[View on RapidAPI](https://rapidapi.com/karimgreek/api/linkedin-data-scraper-api1)** | **[View on Apify](https://apify.com/apimaestro)**
 
 </div>
