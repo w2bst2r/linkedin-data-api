@@ -2,7 +2,7 @@
 
 LinkedIn data scraper API/ for jobs, companies, and profiles. Get real-time access to LinkedIn data through our reliable API service.
 
-## 🚀 Available on RapidAPI and Apify
+## 🚀 Available  on  Apify
 
 Our LinkedIn data solutions are available on apify and rapidapi platforms.
 
