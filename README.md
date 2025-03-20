@@ -8,9 +8,8 @@ Our LinkedIn data solutions are available on apify and rapidapi platforms.
 
 ## 🚀 Quick Access
 
-To use the api, create a free account on either apify or rapidapi access the api from below:
+To use the api, create a free account on  apify to access the api from below:
 - **Apify**: [LinkedIn Scraper Suite](https://apify.com/apimaestro)
-- **RapidAPI**: [LinkedIn Jobs Data API](https://rapidapi.com/karimgreek/api/linkedin-jobs-data-api)
 
 ## 📚 Our LinkedIn Data Solutions
 
@@ -105,6 +104,6 @@ This API is designed for legitimate business purposes and should be used in comp
 
 <div align="center">
 
-**[View on RapidAPI](https://rapidapi.com/karimgreek/api/linkedin-data-scraper-api1)** | **[View on Apify](https://apify.com/apimaestro)**
+**[View on Apify](https://apify.com/apimaestro)**
 
 </div>
